@@ -50,7 +50,3 @@ Implementación del algoritmo **YYC** en Python. Se desarrollan funciones para:
 2. Ejecuta `main.py` para ver los testores típicos.
 3. La salida se muestra en consola con el conjunto de testores encontrados.
 
-## 📝 Conclusión
-
-El algoritmo YYC es una herramienta poderosa para la selección de características relevantes en problemas de clasificación. Su correcta implementación permite encontrar conjuntos mínimos de variables que conservan la capacidad discriminativa del sistema.
-
